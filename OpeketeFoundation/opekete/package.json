@@ -1,7 +1,7 @@
 {
   "name": "nasarna",
   "version": "0.1.0",
-  "homepage": "http://www.opeketefoundation.org/",
+  "homepage": "http:".",
   "private": true,
   "dependencies": {
     "@aws-amplify/cli": "^6.3.1",
